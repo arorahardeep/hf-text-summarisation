@@ -1,6 +1,6 @@
 ---
-title: HF-text-summarization-demo
-emoji: 
+title: text-summarization
+emoji: 🌖
 colorFrom: purple
 colorTo: purple
 sdk: gradio
@@ -10,7 +10,6 @@ pinned: false
 license: cc
 ---
 
+[![Sync to Hugging Face hub](https://github.com/arorahardeep/hf-text-summarisation/actions/workflows/main.yml/badge.svg)](https://github.com/arorahardeep/hf-text-summarisation/actions/workflows/main.yml)
 
-
-# hf-text-summarisation
-A text summarisation model from HF
+[Try Demo Text Summarization Here](https://huggingface.co/spaces/Hardeep/text-summarisation)
