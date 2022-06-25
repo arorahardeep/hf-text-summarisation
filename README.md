@@ -1,6 +1,6 @@
 ---
 title: HF-text-summarization-demo
-emoji: {{emoji}}
+emoji: 
 colorFrom: purple
 colorTo: purple
 sdk: gradio
